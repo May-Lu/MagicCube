@@ -114,11 +114,11 @@
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
-                                                    <a href="magicT/comprtion.jsp">赛事</a>
+                                                    <a href="magicT/competition.jsp">赛事</a>
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
-                                                    <a href="magicT/IndeividualRanking.jsp">个人排名</a>
+                                                    <a href="magicT/IndividualRanking.jsp">个人排名</a>
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
