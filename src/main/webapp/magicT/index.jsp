@@ -114,7 +114,7 @@
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
-                                                    <a href="#">比赛</a>
+                                                    <a href="magicT/comprtion.jsp">赛事</a>
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
@@ -137,15 +137,15 @@
                                             <ul class="dropdown-menu">
 
                                                 <li>
-                                                    <a href="">选手查询</a>
+                                                    <a href="magicT/playerValidation.jsp">选手认证</a>
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
-                                                    <a href="#">教练查询</a>
+                                                    <a href="magicT/coachCertification.jsp">教练认证</a>
                                                 </li>
                                                 <li role="separator" class="divider"></li>
                                                 <li>
-                                                    <a href="#">认证官认证</a>
+                                                    <a href="magicT/certificationAuthority.jsp">认证官认证</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -376,12 +376,10 @@
                 <nav class="center">
                     <ul class="pagination">
                         <li class="page-item">
-                            <a class="page-link" href="#">
-                                <<首页</a>
+                            <a class="page-link" href="#">《首页</a>                              
                         </li>
                         <li class="page-item">
-                            <a class="page-link" href="#">
-                                <前一页</a>
+                            <a class="page-link" href="#">《前一页</a>                                
                         </li>
                         <li class="page-item">
                             <a class="page-link" href="#">1</a>
