@@ -16,11 +16,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>选手</title>
 
-    <script src="${pageContext.request.contextPath}/js/jquery.min.js"></script>
-    <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
+    <script src="magicT/js/jquery.min.js"></script>
+    <script src="magicT/js/bootstrap.min.js"></script>
 
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="magicT/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="magicT/css/bootstrap.min.css">
 
 </head>
 
@@ -32,9 +32,7 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="page-header">
-                                <h1>
-                                    选手
-                                </h1>
+                                <h1>选手</h1>                         
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -42,19 +40,14 @@
                                 <ul class="breadcrumb" style="margin-top: 10%;">
                                     <li>
                                         <a href="#">您在这</a>
-
                                     </li>
                                     <li>
                                         <a href="index.jsp">首页</a>
-
                                     </li>
                                     <li>
                                         <a href="#">成绩</a>
-
                                     </li>
-                                    <li class="active">
-                                        选手
-                                    </li>
+                                    <li class="active">选手</li>               
                                 </ul>
                             </div>
                         </div>
@@ -63,7 +56,6 @@
                 <div class="container-fluid">
                     <div class="row">
                         <form class="form-horizontal">
-
                             <div class="col-md-1">
                                 <div class="form-group">
                                     <label for="inputPassword" class="col-sm-5 control-label">姓名：</label>
@@ -77,8 +69,6 @@
                                         </select>
                                     </div>
                                 </div>
-
-
                             </div>
                             <div class="col-md-1">
                                 <div class="form-group">
@@ -87,11 +77,9 @@
                                         <select class="form-control">
                                             <option>男</option>
                                             <option>女</option>
-
                                         </select>
                                     </div>
                                 </div>
-
 
                             </div>
                             <div class="col-md-1">
