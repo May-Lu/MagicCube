@@ -20,8 +20,8 @@
     <script src="magicT/js/jquery.min.js"></script>
     <script src="magicT/js/bootstrap.min.js"></script>
 
-    <link rel="stylesheet" href="magicT/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="magicT/css/bootstrap.min.css">
+    <link rel="stylesheet" href="magicT/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="magicT/css/bootstrap.min.css"/>
 
     <style>
         .hidden {
