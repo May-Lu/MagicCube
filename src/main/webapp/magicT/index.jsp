@@ -149,23 +149,20 @@
                                                 </li>
                                             </ul>
                                         </li>
+                                        <!--class="btn" style="text-align: left" -->
                                         <li>
-
-                                            <a class="btn " href="#" style="  text-align: left;">加盟方式</a>
+                                            <a href="magicT/toJoin.jsp" >加盟方式</a>
                                         </li>
                                     </ul>
                                     <ul class="nav navbar-nav navbar-right">
                                         <li>
-
                                             <a class="btn " href="#" style="  text-align: left;">ENGLISH</a>
                                         </li>
                                         <li>
-
                                             <a class="btn " href="#" data-toggle="modal" data-target=".bs-example-modal-sm" style="  text-align: left;">登陆</a>
                                         </li>
                                         <li>
                                             <a class="btn " href="#" data-toggle="modal" data-target=".register-madel" style="  text-align: left;">注册</a>
-
                                         </li>
 
                                     </ul>

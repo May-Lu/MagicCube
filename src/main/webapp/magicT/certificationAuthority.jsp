@@ -17,7 +17,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>认证官认证</title>
 
-
     <script src="magicT/js/jquery.min.js"></script>
     <script src="magicT/js/bootstrap.min.js"></script>
 
