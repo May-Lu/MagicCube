@@ -14,13 +14,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ä¸ªäººæå</title>
+    <title>个人排名</title>
 
-    <script src="magicT/js/jquery.min.js"></script>
-    <script src="magicT/js/bootstrap.min.js"></script>
-
-    <link rel="stylesheet" href="magicT/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="magicT/css/bootstrap.min.css">
+    <script src="<%=path %>/magicT/js/jquery.min.js"></script>
+    <script src="<%=path %>/magicT/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="<%=path %>/magicT/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="<%=path %>/magicT/css/bootstrap.min.css">
 
 </head>
 
@@ -32,29 +31,22 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="page-header">
-                                <h1>
-                                    ä¸ªäººæå
-                                </h1>
+                                <h1>个人排名</h1>                             
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="span4">
                                 <ul class="breadcrumb" style="    margin-top: 10%;">
                                     <li>
-                                        <a href="#">æ¨å¨è¿</a>
-
+                                        <a href="#">您在这</a>
                                     </li>
                                     <li>
-                                        <a href="#">é¦é¡µ</a>
-
+                                        <a href="#">首页</a>
                                     </li>
                                     <li>
-                                        <a href="#">æç»©</a>
-
+                                        <a href="#">成绩</a>
                                     </li>
-                                    <li class="active">
-                                        æå
-                                    </li>
+                                    <li class="active">排名</li>                                    
                                 </ul>
                             </div>
                         </div>
@@ -73,7 +65,7 @@
                                 </select>
                             </div>
                             <div class="col-md-11"></div>
-                            <button type="submit" class="btn">æ¥æ¾</button>
+                            <button type="submit" class="btn">查找</button>
                     </div>
                     </form>
                 </div>
@@ -82,50 +74,34 @@
                         <table class="table table-bordered table-hover">
                             <thead>
                                 <tr>
-                                    <th>
-                                        åºå·
-                                    </th>
-                                    <th>
-                                        æå
-                                    </th>
-                                    <th>
-                                        å§å
-                                    </th>
-                                    <th>
-                                        å°åº
-                                    </th>
-                                    <th>
-                                        æç»©
-                                    </th>
-                                    <th>
-                                        æ¯èµ
-                                    </th>
-                                    <th>
-                                        æ¥æ
-                                    </th>
+                                    <th>序号</th>           
+                                    <th>排名</th>
+                                    <th>姓名 </th> 
+                                    <th>地区</th>                                  
+                                    <th>成绩</th>
+                                    <th>比赛 </th>
+                                    <th>日期</th>  
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>
-
                                         1
-
                                     </td>
                                     <td>
                                         1
                                     </td>
                                     <td>
-                                        Jiayu Wang (çä½³å®)
+                                        Jiayu Wang (王佳宇)
                                     </td>
                                     <td>
-                                        ä¸­å½
+                                        中国
                                     </td>
                                     <td>
                                         5.31
                                     </td>
                                     <td>
-                                        2017WCAä¸æµ·æ¥å­£é­æ¹èµ
+                                        2017WCA上海春季魔方赛
                                     </td>
                                     <td>
                                         2017-03-18
@@ -142,16 +118,16 @@
                                         1
                                     </td>
                                     <td>
-                                        Jiayu Wang (çä½³å®)
+                                        Jiayu Wang (王佳宇)
                                     </td>
                                     <td>
-                                        ä¸­å½
+                                        中国
                                     </td>
                                     <td>
                                         5.31
                                     </td>
                                     <td>
-                                        2017WCAä¸æµ·æ¥å­£é­æ¹èµ
+                                        2017WCA上海春季魔方赛
                                     </td>
                                     <td>
                                         2017-03-18
@@ -167,16 +143,16 @@
                                         1
                                     </td>
                                     <td>
-                                        Jiayu Wang (çä½³å®)
+                                        Jiayu Wang (王佳宇)
                                     </td>
                                     <td>
-                                        ä¸­å½
+                                        中国
                                     </td>
                                     <td>
                                         5.31
                                     </td>
                                     <td>
-                                        2017WCAä¸æµ·æ¥å­£é­æ¹èµ
+                                        2017WCA上海春季魔方赛
                                     </td>
                                     <td>
                                         2017-03-18
@@ -192,16 +168,16 @@
                                         1
                                     </td>
                                     <td>
-                                        Jiayu Wang (çä½³å®)
+                                        Jiayu Wang (王佳宇)
                                     </td>
                                     <td>
-                                        ä¸­å½
+                                        中国
                                     </td>
                                     <td>
                                         5.31
                                     </td>
                                     <td>
-                                        2017WCAä¸æµ·æ¥å­£é­æ¹èµ
+                                        2017WCA上海春季魔方赛
                                     </td>
                                     <td>
                                         2017-03-18
@@ -217,16 +193,16 @@
                                         1
                                     </td>
                                     <td>
-                                        Jiayu Wang (çä½³å®)
+                                        Jiayu Wang (王佳宇)
                                     </td>
                                     <td>
-                                        ä¸­å½
+                                        中国
                                     </td>
                                     <td>
                                         5.31
                                     </td>
                                     <td>
-                                        2017WCAä¸æµ·æ¥å­£é­æ¹èµ
+                                        2017WCA上海春季魔方赛
                                     </td>
                                     <td>
                                         2017-03-18
